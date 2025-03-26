@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,
+      "name": "Plain Blue Paper Bookmark",
+      "price": 30,
+      "image": "images/PlainBluePaperBookmark.jpeg",
+      "code": "V34B2"
+    },
+    {
+      "id": 2,
+      "name": "Square Scenery",
+      "price": 60,
+      "image": "images/ScenerySquare.jpeg",
+      "code": "V11M1"
+    },
+    {
+      "id": 3,
+      "name": "'A' Circle",
+      "price": 60,
+      "image": "images/Blue A.jpeg",
+      "code": "V12B6"
+    },
+    {
+      "id": 4,
+      "name": "Circle Blue Design",
+      "price": 60,
+      "image": "images/CircleBlueDesign.jpeg",
+      "code": "V12B5"
+    },
+    {
+      "id": 5,
+      "name": "Red Shade Lining Bookmark",
+      "price": 75,
+      "image": "images/RedShadeLiningBookmark.jpeg",
+      "code": "V24R4"
+    },
+    {
+      "id": 6,
+      "name": "Blue Design Hexagone",
+      "price": 80,
+      "image": "images/BlueDesignHexagone.jpeg",
+      "code": "V16B4"
+    },
+    {
+      "id": 7,
+      "name": "Design Triangle",
+      "price": 60,
+      "image": "images/DesignTriangle.jpeg",
+      "code": "V13M4"
+    },
+    {
+      "id": 8,
+      "name": "Red Boho",
+      "price": 55,
+      "image": "images/RedBoho.jpeg",
+      "code": "V14R2"
+    },
+    {
+      "id": 9,
+      "name": "Sunrise Square",
+      "price": 60,
+      "image": "images/SunriseSquare.jpeg",
+      "code": "V11M1"
+    },
+    {
+      "id": 10,
+      "name": "Shaded Blue Paper Bookmark",
+      "price": 30,
+      "image": "images/ShadedBluePaperBookmark.jpeg",
+      "code": "V34M7"
+    },
+    {
+      "id": 11,
+      "name": "Diamond Blue Flame",
+      "price": 60,
+      "image": "images/DiamondBlueFlame.jpeg",
+      "code": "V17B5"
+    },
+    {
+      "id": 12,
+      "name": "Blue Boho",
+      "price": 55,
+      "image": "images/BlueBoho.jpeg",
+      "code": "V14B2"
+    },
+    {
+      "id": 13,
+      "name": "Sun Square",
+      "price": 60,
+      "image": "images/SunSquare.jpeg",
+      "code": "V11OR1"
+    },
+    {
+      "id": 14,
+      "name": "Black Orange Ring",
+      "price": 80,
+      "image": "images/BlackOrangeRing.jpeg",
+      "code": "V28BR5"
+    },
+    {
+      "id": 15,
+      "name": "Square Red Boho",
+      "price": 60,
+      "image": "images/SquareRedBoho.jpeg",
+      "code": "V11R2"
+    },
+    {
+      "id": 16,
+      "name": "Red Blue Line Design",
+      "price": 80,
+      "image": "images/RedBlueLineDesign.jpeg",
+      "code": "V28M4"
+    },
+    {
+      "id": 17,
+      "name": "Red Shade Lining Design",
+      "price": 80,
+      "image": "images/RedShadeLining.jpeg",
+      "code": "V21R4"
+    },
+    {
+      "id": 18,
+      "name": "Square Beach Scenery",
+      "price": 60,
+      "image": "images/SquareBeachScenery.jpeg",
+      "code": "V21M4"
+    },
+    {
+      "id": 19,
+      "name": "Design Diamond",
+      "price": 60,
+      "image": "images/DesignDimaond.jpeg",
+      "code": "V17M4"
+    },
+    {
+      "id": 20,
+      "name": "Circle Blue Shaded Design",
+      "price": 60,
+      "image": "images/CircleBlueShadedDesign.jpeg",
+      "code": "V22B5"
+    },
+    {
+      "id": 21,
+      "name": "Blue Shaded Lining Bookmark",
+      "price": 75,
+      "image": "images/BlueShadedLiningBookmark.jpeg",
+      "code": "V24B4"
+    },
+    {
+      "id": 22,
+      "name": "Red Shade Circle Design",
+      "price": 60,
+      "image": "images/RedShadeCircleDesign.jpeg",
+      "code": "V12R5"
+    }
+  ]
+  
