@@ -138,12 +138,9 @@ function checkout() {
                 }
             });
 
-            message += `\nTotal: ₹${total}`;
-            let encodedMessage = encodeURIComponent(message);
-            let phone = '8208952199'; // Replace with actual number
-            let whatsappURL = `https://wa.me/8208952199?text=${encodedMessage}`;
+            message += `\nTotal: ₹${total}`; // Fix: No redeclaration, just appending
 
-            window.open(whatsappURL, '_blank');
+            window.open(`https://wa.me/8208952199?text=${encodeURIComponent(message)}`);
 
             // Remove cart only after opening WhatsApp
             setTimeout(() => {
