@@ -30,9 +30,9 @@
     {
       "id": 5,
       "name": "Sold Out",
-      "price": 75,
-      "image": "images/RedShadeLiningBookmark.jpeg",
-      "code": "V24R4"
+      "price": ,
+      "image": "",
+      "code": ""
     },
     {
       "id": 6,
@@ -65,9 +65,9 @@
     {
       "id": 10,
       "name": "Sold out",
-      "price": 30,
-      "image": "images/ShadedBluePaperBookmark.jpeg",
-      "code": "V34M7"
+      "price": ,
+      "image": "",
+      "code": ""
     },
     {
       "id": 11,
